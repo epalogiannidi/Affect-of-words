@@ -18,22 +18,44 @@ Place inside the directory the words of the affective lexicon, the affective sco
 
 
 Contact person: Elisavet Palogiannidi epalogiannidi@gmail.com
+
 Related papers - citations:
+
 First proposed on:
+
 @article{malandrakis2013distributional,
+
   title={Distributional semantic models for affective text analysis},
+
   author={Malandrakis, Nikolaos and Potamianos, Alexandros and Iosif, Elias and Narayanan, Shrikanth},
+
   journal={Audio, Speech, and Language Processing, IEEE Transactions on},
+
   volume={21},
+
   number={11},
+
   pages={2379--2392},
+
   year={2013},
+
   publisher={IEEE}
+
 }
+
 Evaluated on multiple languages and enhanced with Ridge regression on:
+
 @inproceedings{palogiannidi2015valence,
-  title={Valence, Arousal and Dominance Estimation for English, German, Greek, Portuguese and Spanish Lexica Using Semantic  Models},
+
+  title={Valence, Arousal and Dominance Estimation for English, German, Greek, Portuguese and Spanish Lexica Using Semantic  
+  
+  Models},
+  
   author={Palogiannidi, Elisavet and Iosif, Elias and Koutsakis, Polychronis and Potamianos, Alexandros},
+  
   booktitle={In Proceedings of Interspeech},
+  
   year={2015}
+
 }
+
